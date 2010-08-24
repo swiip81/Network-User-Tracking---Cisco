@@ -1,8 +1,8 @@
 #!/usr/bin/perl
-## SOGETI - AMADEUS
 ## Realtime User tracking
 ## Florent USSEIL
 ## 14/08/2010 version 0.1
+## 21/08/2010 version 0.2
 
 use warnings;
 use Net::Appliance::Session ;
@@ -16,7 +16,7 @@ use strict ;
 
 my ($HOSTNAME,$MYIP,$MYMAC) ;
 
-$HOSTNAME  = "ncesbekli" ;
+$HOSTNAME  = "ncestoto" ;
 #$MYIP     = "192.168.1.52" ;
 #$MYMAC    = "00:25:B3:1A:32:02" ;
 #$MYMAC    = "00:25:b3:1a:32:02" ;
